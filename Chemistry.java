@@ -1,6 +1,5 @@
 /**
- * Name          :
- * Matric number :
+Example of using a stack for calculation in brackets
  */
 
 import java.util.*;
